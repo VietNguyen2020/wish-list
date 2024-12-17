@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f4c3005583ae121063ba5929feaad3d5" extends="alm_asset" label="Test" max_length="40" name="x_1567178_wish_l_0_test" type="collection"/>
+</database>
