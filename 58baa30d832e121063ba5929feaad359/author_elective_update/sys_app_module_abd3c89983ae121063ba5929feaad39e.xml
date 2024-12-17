@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Test">efd3c89983ae121063ba5929feaad39a</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Tests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1567178_wish_l_0_test</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1567178_wish_l_0.test_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-17 04:45:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>abd3c89983ae121063ba5929feaad39e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wish List" source="x_1567178_wish_l_0">58baa30d832e121063ba5929feaad359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">58baa30d832e121063ba5929feaad359</sys_scope>
+        <sys_update_name>sys_app_module_abd3c89983ae121063ba5929feaad39e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-17 04:45:07</sys_updated_on>
+        <timeline_page/>
+        <title>Tests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">58baa30d832e121063ba5929feaad359</application>
+        <file_path/>
+        <instance_id>6f6fbd111bc942d0c8432f8dee4bcb0e</instance_id>
+        <instance_name>dev244458</instance_name>
+        <name>sys_app_module_abd3c89983ae121063ba5929feaad39e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Test">efd3c89983ae121063ba5929feaad39a</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Tests</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1567178_wish_l_0_test</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1567178_wish_l_0.test_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-17 04:45:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>abd3c89983ae121063ba5929feaad39e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tests</sys_name><sys_overrides/><sys_package display_value="Wish List" source="x_1567178_wish_l_0">58baa30d832e121063ba5929feaad359</sys_package><sys_policy/><sys_scope display_value="Wish List">58baa30d832e121063ba5929feaad359</sys_scope><sys_update_name>sys_app_module_abd3c89983ae121063ba5929feaad39e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-17 04:45:07</sys_updated_on><timeline_page/><title>Tests</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-332511586</payload_hash>
+        <record_name>Tests</record_name>
+        <reverted_from/>
+        <source>046148d183ae121063ba5929feaad335</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-17 04:45:07</sys_created_on>
+        <sys_id>f7d3c89983ae121063ba5929feaad3a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193d2ef23bf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-17 04:45:07</sys_updated_on>
+        <type>Module</type>
+        <update_guid>bbd3c899eaae12103fd233c99e82d1a0</update_guid>
+        <update_guid_history>bbd3c899eaae12103fd233c99e82d1a0:-332511586</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Tests">27b6049d83ae121063ba5929feaad365</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-17 04:57:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>520aaddf47644218a2663860e0cb00c9</sys_id>
+        <sys_metadata>abd3c89983ae121063ba5929feaad39e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tests</sys_name>
+        <sys_package display_value="Wish List" source="x_1567178_wish_l_0">58baa30d832e121063ba5929feaad359</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">58baa30d832e121063ba5929feaad359</sys_scope>
+        <sys_scope_delete display_value="">22cb43f604d14679a595413283585e99</sys_scope_delete>
+        <sys_update_name>sys_app_module_abd3c89983ae121063ba5929feaad39e</sys_update_name>
+        <sys_update_version display_value="sys_app_module_abd3c89983ae121063ba5929feaad39e">f7d3c89983ae121063ba5929feaad3a1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-17 04:57:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
